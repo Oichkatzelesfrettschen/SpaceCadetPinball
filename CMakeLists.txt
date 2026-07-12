@@ -165,6 +165,8 @@ set(SOURCE_FILES
         SpaceCadetPinball/TWall.h
         SpaceCadetPinball/winmain.cpp
         SpaceCadetPinball/winmain.h
+        SpaceCadetPinball/msvcrt_quick_exit_shim.cpp
+        SpaceCadetPinball/msvcrt_quick_exit_shim.h
         SpaceCadetPinball/zdrv.cpp
         SpaceCadetPinball/zdrv.h
         SpaceCadetPinball/imconfig.h
